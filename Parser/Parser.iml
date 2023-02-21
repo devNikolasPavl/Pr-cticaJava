@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="jdk" jdkName="19" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="super-csv-2.4.0 (2)" level="project" />
+    <orderEntry type="library" exported="" name="lib" level="project" />
   </component>
 </module>
